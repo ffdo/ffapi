@@ -16,7 +16,7 @@
   },
   "metacommunity": "Freifunk Ruhrgebiet",
   "state": {
-    "nodes": 500,
+    "nodes": 492,
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -24,16 +24,22 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-04-19T12:41:04.194Z"
+    "lastchange": "2016-04-19T19:44:04.194Z"
   },
-  "nodeMaps": [
-    {
-      "url": "https://map.ffdo.de/",
-      "interval": "1 Minute",
-      "technicalType": "ffmap",
-      "mapType": "structural"
-    }
-  ],
+  "nodeMaps" : [
+      {
+         "technicalType" : "ffmap",
+         "interval" : "1min",
+         "mapType" : "geographical",
+         "url" : "https://map.ffdo.de//"
+      },
+      {
+         "technicalType" : "ffmap",
+         "interval": "1min",
+         "mapType" : "list/status",
+         "url" : "https://map.ffdo.de/data/nodes.json"
+      }
+   ],
   "techDetails": {
     "firmware": {
       "name": "gluon",
@@ -47,7 +53,7 @@
       "autoupdate"
     ],
     "legals": [
-	  "vpnnational",
+      "vpnnational",
       "institutions"
     ]
   },
