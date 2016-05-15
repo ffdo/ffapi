@@ -34,7 +34,7 @@
          "url" : "https://map.ffdo.de//"
       },
       {
-         "technicalType" : "ffmap",
+         "technicalType": "nodelist",
          "interval": "1min",
          "mapType" : "list/status",
          "url" : "https://map.ffdo.de/data/nodes.json"
