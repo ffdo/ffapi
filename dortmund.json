@@ -28,7 +28,7 @@
   },
   "nodeMaps" : [
       {
-         "technicalType" : "ffmap",
+         "technicalType" : "meshviewer",
          "interval" : "1min",
          "mapType" : "geographical",
          "url" : "https://map.ffdo.de"
