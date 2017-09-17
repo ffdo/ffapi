@@ -17,7 +17,7 @@
   },
   "metacommunity": "Freifunk Dortmund",
   "state": {
-    "nodes": 45,
+    "nodes": 65,
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -25,7 +25,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-11-29T20:18:06.658Z"
+    "lastchange": "2017-09-16T20:18:06.658Z"
   },
   "nodeMaps": [
     {
