@@ -1,0 +1,61 @@
+{
+  "name": "Freifunk Werne",
+  "url": "http://freifunk-werne.de",
+  "location": {
+    "city": "Werne",
+    "country": "DE",
+    "lat": 51.663248,
+    "lon": 7.624651,
+    "address": {
+      "Name": "Jugendzentrum Juwel",
+      "Street": "Bahnhofstraße 10",
+      "Zipcode": "59368"
+    }
+  },
+  "contact": {
+    "email": "kontakt@freifunk-werne.de"
+  },
+  "metacommunity": "Freifunk Dortmund",
+  "state": {
+    "nodes": 65,
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2017-09-16T20:18:06.658Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://map.ffdo.de",
+      "interval": "1 Minute",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map.ffdo.de",
+      "interval": "1 Minute",
+      "technicalType": "meshviewer",
+      "mapType": "list/status"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon",
+      "url": "https://images.ffdo.de/"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual",
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational"
+    ]
+  },
+  "api": "0.4.14"
+}
