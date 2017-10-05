@@ -25,8 +25,16 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2017-09-16T20:18:06.658Z"
+    "lastchange": "2017-10-05T07:38:10.244Z"
   },
+  "feeds": [
+    {
+      "name": "Freifunk Werne Homepage Beitrags Feed",
+      "category": "blog",
+      "type": "RSS",
+      "url": "http://freifunk-werne.de/feed"
+    }
+  ],
   "nodeMaps": [
     {
       "url": "https://map.ffdo.de",
