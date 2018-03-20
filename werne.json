@@ -13,7 +13,8 @@
     }
   },
   "contact": {
-    "email": "kontakt@freifunk-werne.de"
+    "email": "kontakt@freifunk-werne.de",
+    "ml": "http://lists.freifunk.net/mailman/listinfo/werne-freifunk.net"
   },
   "metacommunity": "Freifunk Dortmund",
   "state": {
@@ -25,7 +26,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2018-01-31T07:38:10.244Z"
+    "lastchange": "2018-03-20T08:48:28.680Z"
   },
   "feeds": [
     {
