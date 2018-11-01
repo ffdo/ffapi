@@ -14,7 +14,8 @@
   },
   "contact": {
     "email": "kontakt@freifunk-werne.de",
-    "ml": "http://lists.freifunk.net/mailman/listinfo/werne-freifunk.net"
+    "ml": "http://lists.freifunk.net/mailman/listinfo/werne-freifunk.net",
+    "twitter": "@FreifunkWerne"
   },
   "metacommunity": "Freifunk Dortmund",
   "state": {
