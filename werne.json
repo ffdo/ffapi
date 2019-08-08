@@ -28,7 +28,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2019-03-01T08:14:32.285Z"
+    "lastchange": "2019-08-08T07:20:57.426Z"
   },
   "feeds": [
     {
@@ -50,6 +50,12 @@
       "interval": "1 Minute",
       "technicalType": "meshviewer",
       "mapType": "list/status"
+    },
+    {
+      "url": "https://map-ng.ffdo.de/map07/",
+      "interval": "1 Minute",
+      "technicalType": "hopglass",
+      "mapType": "geographical"
     }
   ],
   "techDetails": {
