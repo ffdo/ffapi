@@ -4,19 +4,23 @@
   "location": {
     "city": "Dortmund",
     "country": "DE",
-    "lat": 51.516111,
-    "lon": 7.463396
+    "lat": 51.527676129,
+    "lon": 7.464992702,
+    "address": {
+      "Name": "Langer August",
+      "Street": " Braunschweiger Str. 22",
+      "Zipcode": "44145"
+    }
   },
   "contact": {
     "email": "info@freifunk-dortmund.de",
     "phone": "+492318404694",
     "ml": "freifunk-do@list.free.de",
-    "facebook": "https://www.facebook.com/FreifunkDortmund/",
     "twitter": "@FreifunkDo"
   },
   "metacommunity": "Freifunk Ruhrgebiet",
   "state": {
-    "nodes": 631,
+    "nodes": 711,
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -24,7 +28,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2018-03-20T08:41:22.248Z"
+    "lastchange": "2019-10-08T19:16:08.164Z"
   },
   "nodeMaps": [
     {
@@ -37,6 +41,18 @@
       "url": "https://map.ffdo.de/data/nodes.json",
       "interval": "1min",
       "technicalType": "meshviewer",
+      "mapType": "list/status"
+    },
+    {
+      "url": "https://map-ng.ffdo.de",
+      "interval": "1min",
+      "technicalType": "hopglass",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-ng.ffdo.de/data//nodes.json",
+      "interval": "1min",
+      "technicalType": "nodelist",
       "mapType": "list/status"
     }
   ],
