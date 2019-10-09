@@ -18,7 +18,6 @@
     "ml": "freifunk-do@list.free.de",
     "twitter": "@FreifunkDo"
   },
-  "metacommunity": "Freifunk Ruhrgebiet",
   "state": {
     "nodes": 711,
     "focus": [
@@ -28,7 +27,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2019-10-08T19:16:08.164Z"
+    "lastchange": "2019-10-09T17:51:50.129Z"
   },
   "nodeMaps": [
     {
