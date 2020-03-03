@@ -49,7 +49,7 @@
       "mapType": "geographical"
     },
     {
-      "url": "https://map-ng.ffdo.de/data//nodes.json",
+      "url": "https://map-ng.ffdo.de/data/mv1/nodes.json",
       "interval": "1min",
       "technicalType": "nodelist",
       "mapType": "list/status"
