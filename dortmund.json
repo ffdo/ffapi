@@ -27,7 +27,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2019-10-09T17:51:50.129Z"
+    "lastchange": "2020-03-05T07:51:50.129Z"
   },
   "nodeMaps": [
     {
@@ -43,9 +43,9 @@
       "mapType": "list/status"
     },
     {
-      "url": "https://map-ng.ffdo.de",
+      "url": "https://map-ng.ffdo.de/map/",
       "interval": "1min",
-      "technicalType": "hopglass",
+      "technicalType": "ffmap",
       "mapType": "geographical"
     },
     {
