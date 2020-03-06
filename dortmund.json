@@ -43,13 +43,7 @@
       "mapType": "list/status"
     },
     {
-      "url": "https://map-ng.ffdo.de/map/",
-      "interval": "1min",
-      "technicalType": "ffmap",
-      "mapType": "geographical"
-    },
-    {
-      "url": "https://map-ng.ffdo.de/data/mv1/nodes.json",
+      "url": "https://map-ng.ffdo.de/data/nodelist.json",
       "interval": "1min",
       "technicalType": "nodelist",
       "mapType": "list/status"
