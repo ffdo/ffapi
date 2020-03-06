@@ -38,13 +38,6 @@
       "url": "http://freifunk-werne.de/feed"
     }
   ],
-  "nodeMaps": [
-    {
-      "url": "https://map-ng.ffdo.de/map07/",
-      "interval": "1 Minute",
-      "technicalType": "ffmap"
-    }
-  ],
   "techDetails": {
     "firmware": {
       "name": "gluon",
