@@ -19,7 +19,7 @@
     "twitter": "@FreifunkDo"
   },
   "state": {
-    "nodes": 711,
+    "nodes": 640,
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -27,7 +27,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2020-03-05T07:51:50.129Z"
+    "lastchange": "2021-01-09T09:51:31.631Z"
   },
   "nodeMaps": [
     {
@@ -49,10 +49,18 @@
       "mapType": "list/status"
     }
   ],
+  "support": {
+    "donations": {
+      "bankaccount": {
+        "IBAN": "DE21830654080004032055",
+        "BIC": "GENODEF1SLR"
+      }
+    }
+  },
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "https://images.ffdo.de/"
+      "url": "https://fw-download.ffdo.de/"
     },
     "routing": [
       "batman-adv"
