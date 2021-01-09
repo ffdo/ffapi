@@ -20,7 +20,7 @@
   },
   "metacommunity": "Freifunk Dortmund",
   "state": {
-    "nodes": 70,
+    "nodes": 40,
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -28,7 +28,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2020-03-05T07:20:57.426Z"
+    "lastchange": "2021-01-09T09:38:48.839Z"
   },
   "feeds": [
     {
@@ -38,10 +38,18 @@
       "url": "http://freifunk-werne.de/feed"
     }
   ],
+  "nodeMaps": [
+    {
+      "url": "https://map-ng.ffdo.de/map07/",
+      "interval": "1x pro Minute",
+      "technicalType": "hopglass",
+      "mapType": "geographical"
+    }
+  ],
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "https://images.ffdo.de/"
+      "url": "https://images.ffdo.de/ffdo_ng/domaenen/domaene07/"
     },
     "routing": [
       "batman-adv"
